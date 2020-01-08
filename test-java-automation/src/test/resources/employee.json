@@ -1,0 +1,17 @@
+{"name":"My Test","salary":"450","age":"85","test_case":"valid_data"}
+{"name":"My Test","salary":"450","age":"85","test_case":"duplicate_name"}
+{"salary":"450","age":"85","test_case":"null_name"}
+{"name":"testing1","age":"85","test_case":"null_salary"}
+{"name":"testing2","salary":"450","test_case":"null_age"}
+{"name":"testing@#$%","salary":"450","age":"85","test_case":"invalid_name"}
+{"name":"testing3","salary":"as@#","age":"85","test_case":"invalid_salary"}
+{"name":"testing4","salary":"8500","age":"4s52@#","test_case":"invalid_age"}
+{"name":"My Test A","salary":"450","age":"85","test_case":"post_data_put"}
+{"name":"My Test B","salary":"450","age":"85","test_case":"update_data_put"}
+{"name":"My Test","salary":"450","age":"85","test_case":"duplicate_data_put"}
+{"salary":"450","age":"85","test_case":"null_name_put"}
+{"name":"testing1","age":"85","test_case":"null_salary_put"}
+{"name":"testing2","salary":"450","test_case":"null_age_put"}
+{"name":"testing@#$%!!@@","salary":"450","age":"85","test_case":"invalid_name_put"}
+{"name":"testing3","salary":"as@#$$#","age":"85","test_case":"invalid_salary_put"}
+{"name":"testing4","salary":"8500","age":"4s5@@@2@#","test_case":"invalid_age_put"}
